@@ -8,4 +8,4 @@
 Based Cohort
     * [원본 논문 링크](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0159887&type=printable) / [Summary](https://github.com/Munsheng/3D-human-body-paper-review/blob/040d0ab3ff6cd85d3dbc78e7d000def258010960/Summary/SOM_Body%20Type.pdf)
   * Application of Artificial Neural Network to Somatotype Determination
-    * [원본 논문 링크](https://www.mdpi.com/2076-3417/11/4/1365) / [Summary](https://github.com/sb0702/3D-human-body-paper-review/blob/Summary/체형 판정에 대한 인공신경망의 적용.pdf)
+    * [원본 논문 링크](https://www.mdpi.com/2076-3417/11/4/1365) / [Summary](https://github.com/sb0702/3D-human-body-paper-review/blob/d3900f258167d32d9dc19059296be4831d54df50/Summary/%EC%B2%B4%ED%98%95%20%ED%8C%90%EC%A0%95%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%98%20%EC%A0%81%EC%9A%A9.pdf)
