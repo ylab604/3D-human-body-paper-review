@@ -1,5 +1,7 @@
 회의록 2022/02/12
-발표한 논문
+
+<발표한 논문>
+
 Application of Artificial Neural Network to Somatotype Determination
 내배엽 중배엽 외배엽 
 공식과 이것을 이용했으면 좋겠다.
