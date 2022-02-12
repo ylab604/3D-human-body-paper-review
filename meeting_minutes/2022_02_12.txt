@@ -1,0 +1,16 @@
+회의록 2022/02/12
+발표한 논문
+Application of Artificial Neural Network to Somatotype Determination
+내배엽 중배엽 외배엽 
+공식과 이것을 이용했으면 좋겠다.
+
+Clinical anthropometrics and body composition from 3D whole-body surface scans
+좋은 레퍼런스로 사용 가능하다
+사용한 공식들이 있다 이것을 트래킹하면 좋을 것 이다.
+
+
+2/26까지 진행해야할 것들
+1. 데이터 가이드북 마저 진행
+2. 읽을 논문 택1 해서 리뷰
+
+
