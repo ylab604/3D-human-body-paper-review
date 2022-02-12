@@ -14,5 +14,5 @@ Clinical anthropometrics and body composition from 3D whole-body surface scans
 2/26까지 진행해야할 것들
 1. 데이터 가이드북 마저 진행
 2. 읽을 논문 택1 해서 리뷰
-
+3. 데이터 폴더 정리
 
