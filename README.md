@@ -6,7 +6,7 @@
     * [원본 논문 링크](https://ieeexplore.ieee.org/document/9204617) / [Summary](https://github.com/ylab604/3D-human-body-paper-review/blob/main/Summary/HUMAN4D.pdf) 
   * Novel Anthropometry Based on 3DBodyscans Applied to a Large Population
 Based Cohort
-    * [원본 논문 링크](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0159887&type=printable) / [Summary](https://github.com/Munsheng/3D-human-body-paper-review/blob/040d0ab3ff6cd85d3dbc78e7d000def258010960/Summary/SOM_Body%20Type.pdf)
+    * [원본 논문 링크](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0159887&type=printable) / [Summary](https://github.com/ylab604/3D-human-body-paper-review/blob/54539e077ac72c2441763612289fec72ee13aefb/Summary/SOM_Body%20Type.pdf)
   * Application of Artificial Neural Network to Somatotype Determination
     * [원본 논문 링크](https://www.mdpi.com/2076-3417/11/4/1365) / [Summary](https://github.com/sb0702/3D-human-body-paper-review/blob/2cdb17ef3d43d0e468b5475f9005a2fa7d537479/Summary/Application%20of%20Artificial%20Neural%20Network%20to%20Somatotype.pdf)
   * 3D shape based body composition
