@@ -15,6 +15,7 @@ Based Cohort
     * [원본 논문 링크](https://www.researchgate.net/publication/304329278_Clinical_anthropometrics_and_body_composition_from_3D_whole-body_surface_scans) / [Summary](https://github.com/ylab604/3D-human-body-paper-review/blob/552c97900b420db2d15bb94ec7a70575c1e51490/Summary/Clinical%20anthropometrics%20and%20body%20composition%20from%203D%20Scan.pdf) 
 
 * #### 회의록
+   * [2022/01/22](https://github.com/ylab604/3D-human-body-paper-review/blob/main/meeting_minutes/2022_01_22.txt)
    * [2022/02/12](https://github.com/ylab604/3D-human-body-paper-review/blob/main/meeting_minutes/2022_02_12.txt)
 
 
