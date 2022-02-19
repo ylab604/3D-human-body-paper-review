@@ -14,6 +14,13 @@ Based Cohort
   * Clinical anthropometrics and body composition from 3D whole-body surface scans
     * [원본 논문 링크](https://www.researchgate.net/publication/304329278_Clinical_anthropometrics_and_body_composition_from_3D_whole-body_surface_scans) / [Summary](https://github.com/ylab604/3D-human-body-paper-review/blob/552c97900b420db2d15bb94ec7a70575c1e51490/Summary/Clinical%20anthropometrics%20and%20body%20composition%20from%203D%20Scan.pdf) 
 
+
+* #### 3Dhuman body reconstruction from 2Dsingle image
+    * [원본 논문 링크](https://openaccess.thecvf.com/content_ICCV_2019/html/Smith_FACSIMILE_Fast_and_Accurate_Scans_From_an_Image_in_Less_ICCV_2019_paper.html) / [Summary]() / [번역본](https://github.com/ylab604/3D-human-body-paper-review/blob/main/translation/FACSIMILE.pdf)
+
+
+
+
 * #### 회의록
    * [2022/01/22](https://github.com/ylab604/3D-human-body-paper-review/blob/main/meeting_minutes/2022_01_22.txt)
    * [2022/02/12](https://github.com/ylab604/3D-human-body-paper-review/blob/main/meeting_minutes/2022_02_12.txt)
