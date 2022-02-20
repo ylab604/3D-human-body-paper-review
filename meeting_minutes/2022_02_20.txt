@@ -1,0 +1,26 @@
+회의록 2022/02/20
+
+
+논문 발표
+1. FACSIMILE: Fast and Accurate Scans From an Image in Less Than a Second
+감상: 본 논문이 뒤에 나오는 3d human body reconstruction 분야 (non-parametic)에서의 연구들에 영향을 개인적으로는 많이 끼치지 않았나 생각한다. 
+아이디어: normal map에 대한 깊이있는 공부가 필요하다.
+
+2. Current state of the art and enduring issues in anthropometric data collection
+감상 : 기준점의 문제가 해결하기 어렵나? 연구자들이 gold standard가 바뀌니깐 통일 시킬 수 있지 않을까?
+아이디어 : 연구 기록을 좀 자세히 해야겠다
+
+3. Assessment of clinical measures of total and regional body composition from a commercial 3-
+dimensional optical body scanner
+감상 : 랜드마크가 중요함을 다시 느꼈다.
+아이디어 : 논문에서 제시한 측정 자세 기준을 제시하면 좋겠다.
+
+
+to do
+- 방학동안 읽은 논문 정리해서 업뎃할 것들은 업뎃
+- 데이터 가이드북 마무리
+- 코딩공부
+
+
+
+
