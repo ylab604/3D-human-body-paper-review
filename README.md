@@ -13,6 +13,8 @@ Based Cohort
     * [원본 논문 링크](https://pubmed.ncbi.nlm.nih.gov/30441235/) / [Summary](https://github.com/sb0702/3D-human-body-paper-review/blob/2fea27644e11da30b71c218f3876fa14fcc46933/Summary/3D%20shape%20based%20body%20composition.pdf)
   * Clinical anthropometrics and body composition from 3D whole-body surface scans
     * [원본 논문 링크](https://www.researchgate.net/publication/304329278_Clinical_anthropometrics_and_body_composition_from_3D_whole-body_surface_scans) / [Summary](https://github.com/ylab604/3D-human-body-paper-review/blob/552c97900b420db2d15bb94ec7a70575c1e51490/Summary/Clinical%20anthropometrics%20and%20body%20composition%20from%203D%20Scan.pdf) 
+  * Current state of the art and enduring issues in anthropometric data collection
+    * [원본 논문 링크](https://www.semanticscholar.org/paper/Current-state-of-the-art-and-enduring-issues-in-1-Bragan%C3%A7a-Arezes/2f25bef7a0780436c9e6042415279480798fd63d) / [Summary](https://github.com/sb0702/3D-human-body-paper-review/blob/1650533577aab1ba04d23a5ea2b0cfffc5f6a511/Summary/%EC%9D%B8%EC%B2%B4%EC%B8%A1%EC%A0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%B5%9C%EC%8B%A0%20%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EB%AC%B8%EC%A0%9C%20%EB%85%BC%EB%AC%B8%20%EC%9A%94%EC%95%BD.pdf)
 
 
 * #### 3D_human body reconstruction from 2D_single image
