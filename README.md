@@ -29,6 +29,8 @@ Based Cohort
 * #### 회의록
    * [2022/01/22](https://github.com/ylab604/3D-human-body-paper-review/blob/main/meeting_minutes/2022_01_22.txt)
    * [2022/02/12](https://github.com/ylab604/3D-human-body-paper-review/blob/main/meeting_minutes/2022_02_12.txt)
+   * [2022/02/12](https://github.com/ylab604/3D-human-body-paper-review/blob/main/meeting_minutes/2022_02_20.txt)
+
 
 
 * #### 결과물들
