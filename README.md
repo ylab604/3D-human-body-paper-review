@@ -23,7 +23,17 @@ Based Cohort
   * FACSIMILE: Fast and Accurate Scans From an Image in Less Than a Second
     * [원본 논문 링크](https://openaccess.thecvf.com/content_ICCV_2019/html/Smith_FACSIMILE_Fast_and_Accurate_Scans_From_an_Image_in_Less_ICCV_2019_paper.html) / [Summary](https://ylab604.tistory.com/17) / [번역본](https://github.com/ylab604/3D-human-body-paper-review/blob/main/translation/FACSIMILE.pdf)
 
+* #### 3D face reconstruction
+  * i3DMM: Deep Implicit 3D Morphable Model of Human Heads (CVPR2021)
+    * [paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Yenamandra_i3DMM_Deep_Implicit_3D_Morphable_Model_of_Human_Heads_CVPR_2021_paper.html)
+  * Learning To Aggregate and Personalize 3D Face From In-the-Wild Photo Collection (CVPR2021)
+    * [paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Learning_To_Aggregate_and_Personalize_3D_Face_From_In-the-Wild_Photo_CVPR_2021_paper.html) 
+  * Cross-modal Deep Face Normals with Deactivable Skip Connections (CVPR2020)
+    * [paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Abrevaya_Cross-Modal_Deep_Face_Normals_With_Deactivable_Skip_Connections_CVPR_2020_paper.html)     
 
+* #### implicit representation for 3d reconstruction
+  * Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes (CVPR2021)(using Octree / faster, fine detail)
+    * [paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Takikawa_Neural_Geometric_Level_of_Detail_Real-Time_Rendering_With_Implicit_3D_CVPR_2021_paper.html)
 
 
 * #### 회의록
