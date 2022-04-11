@@ -1,5 +1,11 @@
 # 3D_humanbody_research
 
+* #### FOR BMI estimator
+
+  * A skeleton-free kinect system for body mass index assessment using deep neural networks
+    * [원본 논문 링크](https://ieeexplore.ieee.org/abstract/document/8088252/similar#similar) / [Summary](https://ylab604.tistory.com/32)
+
+
 * #### Reference paper
 
   * HUMAN4D: A Human-Centric Multimodal Dataset for Motions and Immersive Media
