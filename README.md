@@ -5,7 +5,7 @@
   * A skeleton-free kinect system for body mass index assessment using deep neural networks
     * [원본 논문 링크](https://ieeexplore.ieee.org/abstract/document/8088252/similar#similar) / [Summary](https://ylab604.tistory.com/32)
   * Estimating Human Weight from A Single Image
-    * [원본 논문 링크](https://ieeexplore.ieee.org/document/9699418) / [Summary](https://ylab604.tistory.com/32)
+    * [원본 논문 링크](https://ieeexplore.ieee.org/document/9699418) / [Summary](https://mostar39.tistory.com/79)
 
 
 * #### Reference paper
