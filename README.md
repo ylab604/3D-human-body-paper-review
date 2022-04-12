@@ -6,6 +6,8 @@
     * [원본 논문 링크](https://ieeexplore.ieee.org/abstract/document/8088252/similar#similar) / [Summary](https://ylab604.tistory.com/32)
   * Estimating Human Weight from A Single Image
     * [원본 논문 링크](https://ieeexplore.ieee.org/document/9699418) / [Summary](https://mostar39.tistory.com/79)
+  * Estimation of Body Mass Index from photographs using deep Convolutional Neural Networks
+    * [원본 논문 링크](https://www.sciencedirect.com/science/article/pii/S2352914821002069) / [Summary](https://mostar39.tistory.com/82)
 
 
 * #### Reference paper
