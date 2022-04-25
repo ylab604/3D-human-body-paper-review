@@ -32,6 +32,12 @@ Based Cohort
 * #### 3D_human body reconstruction from 2D_single image
   * FACSIMILE: Fast and Accurate Scans From an Image in Less Than a Second
     * [원본 논문 링크](https://openaccess.thecvf.com/content_ICCV_2019/html/Smith_FACSIMILE_Fast_and_Accurate_Scans_From_an_Image_in_Less_ICCV_2019_paper.html) / [Summary](https://ylab604.tistory.com/17) / [번역본](https://github.com/ylab604/3D-human-body-paper-review/blob/main/translation/FACSIMILE.pdf)
+  * 3D Human Mesh Regression with Dense Correspondence
+    * [원본 논문 링크](https://arxiv.org/abs/2006.05734) / [Summary](https://ylab604.tistory.com/49)
+
+
+
+
 
 * #### 3D face reconstruction
   * i3DMM: Deep Implicit 3D Morphable Model of Human Heads (CVPR2021)
