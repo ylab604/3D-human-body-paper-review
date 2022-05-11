@@ -8,6 +8,8 @@
     * [원본 논문 링크](https://ieeexplore.ieee.org/document/9699418) / [Summary](https://mostar39.tistory.com/79)
   * Estimation of Body Mass Index from photographs using deep Convolutional Neural Networks
     * [원본 논문 링크](https://www.sciencedirect.com/science/article/pii/S2352914821002069) / [Summary](https://mostar39.tistory.com/82)
+  * Attention guided deep features for accurate body mass index estimation
+    * [원본 논문 링크](https://www.sciencedirect.com/science/article/pii/S0167865522000022) / [Summary](https://mostar39.tistory.com/91?category=911641)
 
 
 * #### Reference paper
