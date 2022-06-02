@@ -66,6 +66,6 @@ Based Cohort
    * [2022/03/16](https://github.com/ylab604/3D-human-body-paper-review/blob/main/Summary/LAB20220316_uploadver.pdf)
 
 * #### 결과물들
-   * [학회발표ppt](https://github.com/ylab604/3D-human-body-paper-review/blob/main/Summary/3D_obesity.pdf)
-   * [학회발표ppt](https://github.com/ylab604/3D-human-body-paper-review/blob/main/Summary/spring.pdf)
+   * [학회발표ppt_kics](https://github.com/ylab604/3D-human-body-paper-review/blob/main/Summary/3D_obesity.pdf)
+   * [학회발표ppt_산업공학회](https://github.com/ylab604/3D-human-body-paper-review/blob/main/Summary/spring.pdf)
 
